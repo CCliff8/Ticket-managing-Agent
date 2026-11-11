@@ -1,0 +1,11 @@
+Hi,
+
+I just received three email alerts saying someone logged into my company account at 3:14 AM, 3:17 AM, and 3:22 AM tonight. I was asleep and definitely did not initiate those logins. The alerts show the IP address as 185.220.101.47 which I don't recognise at all — it looks like it might be from a different country.
+
+I'm really worried my account has been compromised. I haven't clicked any suspicious links recently but I did use the company WiFi at a conference last week.
+
+What should I do? Should I change my password? I don't want to make things worse.
+
+Please help urgently.
+
+James

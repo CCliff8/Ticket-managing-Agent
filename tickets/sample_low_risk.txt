@@ -1,0 +1,10 @@
+Hi support team,
+
+I've been working from home this week and I can't get the VPN to connect. I haven't used it in about a week so not sure if something changed. I'm on a MacBook Air and running the latest version of the VPN client.
+
+The error message just says "Connection failed. Please try again." I've already tried disconnecting and reconnecting a few times but it keeps failing.
+
+Not urgent, I can use the office network for now, but would be good to get it sorted.
+
+Thanks,
+Alex
